@@ -1,6 +1,6 @@
 # UDMorph Contibutions
 
-This is a dedicated project where people can contribute to UDMorph
+This is a dedicated project where people can contribute to [UDMorph](https://lindat.mff.cuni.cz/services/teitok-live/udmorph/), an infrastructure to provide POS taggers and training data.
 
 - Create a fork of the corpus, add any new taggers or data-sets there and provide a merge request. Forked branches will by deafult be used in private new branches.
 - Create an issue to provide any feedback. Feedback can be to provide a contact to new data, a request to set-up a new TEITOK corpus for a new language, a link to a repository with a full-data that can be mirrored on UDMorph, etc. 
